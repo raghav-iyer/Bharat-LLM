@@ -1,0 +1,87 @@
+Original: The objective elements stated in the standards are scored during the assessment. The same is also used for scoring during the self-assessment. The scoring is to be done using a five-point scale. When applying a score, use the following rationale to determine the level of compliance.
+Translated: मानकों में बताए गए वस्तुनिष्ठ तत्वों को मूल्यांकन के दौरान स्कोर किया जाता है। इसका उपयोग स्व-मूल्यांकन के दौरान स्कोरिंग के लिए भी किया जाता है। स्कोरिंग पांच-बिंदु पैमाने का उपयोग करके किया जाना है। स्कोर लागू करते समय, अनुपालन के स्तर को निर्धारित करने के लिए निम्नलिखित तर्क का उपयोग करें।
+---
+Original: The basis for scoring shall be implementation. However, if there is inadequate/inappropriate system documentation, the score could be downgraded by one. 
+Translated: स्कोरिंग का आधार कार्यान्वयन होगा। हालांकि, यदि अपर्याप्त / अनुपयुक्त प्रणाली प्रलेखन है, तो स्कोर को एक से डाउनग्रेड किया जा सकता है। 
+---
+Original: •	Elementary (limited) systems in place and there is some evidence of working towards implementation 
+Translated: •	प्राथमिक (सीमित) प्रणालियां मौजूद हैं और कार्यान्वयन की दिशा में काम करने के कुछ प्रमाण हैं 
+---
+Original: •	The majority (between 61-80%) of the samples meet the requirement(s) of the objective element 
+Translated: •	नमूनों का बहुमत (61-80% के बीच) उद्देश्य तत्व की आवश्यकता (ओं) को पूरा करता है 
+---
+Original: •	Almost all (between 81-100%) of the samples meet the requirement(s) of the objective element 
+Translated: •	नमूनों के लगभग सभी (81-100% के बीच) उद्देश्य तत्व की आवश्यकता (ओं) को पूरा करते हैं 
+---
+Original: •	Systems are partially in place, and there is evidence of working towards implementation 
+Translated: •	सिस्टम आंशिक रूप से जगह में हैं, और कार्यान्वयन की दिशा में काम करने का सबूत है 
+---
+Original: •	None or little (≤ 20%) of the samples meet the requirement(s) of the objective element 
+Translated: •	नमूनों में से कोई भी या कम (≤ 20%) उद्देश्य तत्व की आवश्यकता (ओं) को पूरा नहीं करता है 
+---
+Original: •	Some (between 41-60%) of the samples meet the requirement(s) of the objective element 
+Translated: •	नमूनों में से कुछ (41-60% के बीच) उद्देश्य तत्व की आवश्यकता (ओं) को पूरा करते हैं 
+---
+Original: •	Systems are in place, and there is evidence of implementation across the organisation 
+Translated: •	सिस्टम जगह में हैं, और पूरे संगठन में कार्यान्वयन का प्रमाण है 
+---
+Original: •	Minimal (between 21-40%) of the samples meet requirement(s) of the objective element 
+Translated: •	नमूनों का न्यूनतम (21-40% के बीच) उद्देश्य तत्व की आवश्यकता (ओं) को पूरा करता है 
+---
+Original: •	No systems in place and there is no evidence of working towards implementation 
+Translated: •	कोई प्रणाली नहीं है और कार्यान्वयन की दिशा में काम करने का कोई सबूत नहीं है 
+---
+Original: •	Systems are in place, and there is evidence of working towards implementation 
+Translated: •	सिस्टम जगह में हैं, और कार्यान्वयन की दिशा में काम करने का सबूत है 
+---
+Original: •	Non-conformity could exist 
+Translated: •	गैर-अनुरूपता मौजूद हो सकती है 
+---
+Original: •	Non-conformity exists 
+Translated: •	गैर-अनुरूपता मौजूद है 
+---
+Original: •	No Non-conformity 
+Translated: •	कोई गैर-अनुरूपता नहीं 
+---
+Original: Partial compliance 
+Translated: आंशिक अनुपालन 
+---
+Original: Poor compliance 
+Translated: खराब अनुपालन 
+---
+Original: Good compliance 
+Translated: अच्छा अनुपालन 
+---
+Original: Full compliance 
+Translated: पूर्ण अनुपालन 
+---
+Original: No compliance 
+Translated: कोई अनुपालन नहीं 
+---
+Original: Rationale 
+Translated: मूलाधार 
+---
+Original: Scoring
+Translated: स्कोरिंग
+---
+Original: Score 
+Translated: स्‍कोर करना 
+---
+Original: 13
+Translated: 13
+---
+Original: 1 
+Translated: 1 
+---
+Original: 2 
+Translated: 2 
+---
+Original: 3 
+Translated: 3 
+---
+Original: 4 
+Translated: 4 
+---
+Original: 5 
+Translated: 5 
+---
