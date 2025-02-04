@@ -1,1 +1,1 @@
-Decoder Only Transformer with Multihead Self Attention, Rotatory positional embedding, sentence piece vocab, inbuilt tokenizer ,new architeecture for LLM
+Decoder Only Transformer with Multihead Self Attention, Rotatory positional embedding, sentence piece vocab, inbuilt tokenizer ,new architecture for LLM
